@@ -15,4 +15,6 @@ Overall Performance Metrics
  •	Average Revenue per Customer: $3,520.98
  
  •	Average Orders per Delivery: 5.53
+ 
+<img width="1830" height="837" alt="dashboard" src="https://github.com/user-attachments/assets/273d7d0f-6d28-45c3-bc93-4a7ce958b10a" />
 
